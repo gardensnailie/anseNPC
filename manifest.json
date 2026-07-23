@@ -1,0 +1,11 @@
+{
+  "Name": "Anse - Custom NPC",
+  "Author": "kaojushage",
+  "Version": "1.0.0",
+  "Description": "Adds a custom NPC: Anse, Pellican Town's spiritual expert.",
+  "UniqueID": "kaojushage.anse",
+  "UpdateKeys": ["///"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }, 
+}
